@@ -1,0 +1,14 @@
+MANIFEST
+README
+VERSION
+Rakefile
+ruby-jedec.gemspec
+lib/jedec.rb
+lib/jedec/fusedata.rb
+test/test_jedec.rb
+test/data/basic.jed
+test/data/checksum_error.jed
+test/data/default_one.jed
+test/data/default_zero.jed
+test/data/syntax_error.jed
+test/data/too_many_fuses.jed
